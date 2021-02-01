@@ -3,8 +3,8 @@
 ## Devpost
 [Checkout our Devpost submission!](https://devpost.com/software/exchangenus)
 
-## Hosting
-We are currently hosting the application at http://nusexchange.herokuapp.com/
+## Hosting (Outdated as we are currently preparing to launch beta version)
+We are currently hosting the application at ~~http://nusexchange.herokuapp.com/~~
 
 Note: Make sure to use the http:// and not the https:// version. The https:// version
 will load the front end but the backend functionality will not work. 
